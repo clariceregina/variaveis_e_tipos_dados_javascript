@@ -1,7 +1,7 @@
 # Variáveis e tipos de dados em JavaScript
 Repositório de consulta JavaScript (variáveis e tipos de dados) criado a partir do curso de Back-end da Grow Dev.
 
-## 📌 O que você vai encontrar no código
+## 📌 Você vai encontrar no código:
 
 - Declaração de variáveis usando `var`, `let` e `const`
 - Entrada de dados do usuário com `prompt`
